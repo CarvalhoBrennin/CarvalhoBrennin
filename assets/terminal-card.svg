@@ -16,7 +16,7 @@
   <rect x="34" y="66" width="872" height="3" rx="1.5" fill="url(#line)" opacity="0.9"/>
 
   <text x="36" y="104" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="19">[01] work</text>
-  <text x="155" y="104" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">portais corporativos, e-commerce e APIs .NET em saude</text>
+  <text x="155" y="104" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">portais corporativos, e-commerce e APIs .NET em saúde</text>
 
   <text x="36" y="148" fill="#06B6D4" font-family="Consolas, Monaco, monospace" font-size="19">[02] stack</text>
   <text x="155" y="148" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">React, TypeScript, .NET 9, Python, PostgreSQL, Docker</text>
@@ -25,7 +25,7 @@
   <text x="155" y="192" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">AM · amigos-database · Transformados</text>
 
   <text x="36" y="236" fill="#FBBF24" font-family="Consolas, Monaco, monospace" font-size="19">[04] focus</text>
-  <text x="155" y="236" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">codigo claro, testes, entrega incremental e produto util</text>
+  <text x="155" y="236" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">código claro, testes, entrega incremental e produto útil</text>
 
-  <text x="36" y="280" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="17">full-stack com experiencia enterprise e projetos comunitarios.</text>
+  <text x="36" y="280" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="17">full-stack com experiência enterprise e projetos comunitários.</text>
 </svg>

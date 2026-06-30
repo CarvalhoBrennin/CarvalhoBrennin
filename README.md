@@ -3,29 +3,25 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CarvalhoBrennin?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-CarvalhoBrennin-181717?style=for-the-badge&logo=github" /></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=880&lines=Desenvolvimento+full-stack;Web%2C+APIs+e+desktop;Software+util+e+bem+testado;React+%7C+.NET+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
+  <a href="https://github.com/CarvalhoBrennin"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-CarvalhoBrennin-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:desenvolvedor@okta7.com.br"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-contato-06B6D4?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 </p>
 
 ---
 
 ## Sobre
 
-Sou o **Brennin**, desenvolvedor **full-stack** que atua entre **front-end**, **back-end**, **APIs**, **desktop** e **automação** — escolhendo a stack certa para cada problema, com foco em código legível, entrega incremental e software que funciona no mundo real.
-
-```txt
-perfil: full-stack developer
-foco: produto útil, arquitetura clara, testes e manutenção
-stack: TypeScript · React · Python · C# · .NET · JavaScript
-ambiente: web · desktop · APIs · Docker · Azure DevOps
-```
+Desenvolvedor **full-stack** entre front-end, back-end, APIs, desktop e automação — escolho a stack certa para cada problema e priorizo código legível, entrega incremental e software que funciona no mundo real.
 
 <p align="center">
   <img src="./assets/terminal-card.svg" alt="Resumo técnico do perfil" width="94%" />
 </p>
+
+## Agora
+
+- Full-stack em produtos digitais corporativos (React + ASP.NET Core) numa operadora de planos odontológicos
+- Mantendo o [amigos-database](https://github.com/CarvalhoBrennin/amigos-database) — SPA pública com testes E2E e deploy contínuo
+- Este próprio perfil: métricas e automações geradas via GitHub Actions, sem depender de serviços de terceiros frágeis
 
 ---
 
@@ -47,56 +43,38 @@ Desenvolvedor full-stack em **operadora de planos odontológicos**, atuando em p
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/CarvalhoBrennin/AM">AM</a></h3>
-      <p><strong>Web · comunidade</strong></p>
+      <a href="https://github.com/CarvalhoBrennin/AM"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=CarvalhoBrennin&repo=AM&theme=tokyonight&hide_border=true" alt="AM" /></a>
       <p>Plataforma web da linha AMIGOS — experiências digitais, conteúdo e ferramentas para uso comunitário.</p>
-      <p><code>TypeScript</code> <code>React</code> <code>Vite</code> <code>SPA</code></p>
+      <p><code>TypeScript</code> <code>React</code> <code>Vite</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/CarvalhoBrennin/amigos-database">amigos-database</a></h3>
-      <p><strong>Web · catálogo · público</strong></p>
-      <p>SPA de jogos cooperativos e browser games com filtros, i18n, integração de preços e testes E2E.</p>
-      <p><code>React 18</code> <code>TypeScript</code> <code>Tailwind</code> <code>Vitest</code> <code>Playwright</code></p>
+      <a href="https://github.com/CarvalhoBrennin/amigos-database"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=CarvalhoBrennin&repo=amigos-database&theme=tokyonight&hide_border=true" alt="amigos-database" /></a>
+      <p>SPA pública de jogos cooperativos e browser games — filtros, i18n, integração de preços e testes E2E.</p>
+      <p><code>React 18</code> <code>Tailwind</code> <code>Vitest</code> <code>Playwright</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/CarvalhoBrennin/Transformados">Transformados</a></h3>
-      <p><strong>Web · comunidade</strong></p>
+      <a href="https://github.com/CarvalhoBrennin/Transformados"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=CarvalhoBrennin&repo=Transformados&theme=tokyonight&hide_border=true" alt="Transformados" /></a>
       <p>Projetos digitais para ministério e organização: presença online, ferramentas internas e apoio operacional.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Web</code> <code>Comunidade</code></p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="45%">
-      <a href="https://github.com/CarvalhoBrennin/amigos-database">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarvalhoBrennin&repo=amigos-database&theme=tokyonight&hide_border=true" alt="amigos-database" />
-      </a>
-    </td>
-    <td width="55%" valign="top">
-      <h3>amigos-database</h3>
-      <p>Catálogo SPA de jogos cooperativos com navegação fluida, filtros, modalidades, i18n multi-idioma e integração com conversores de preço.</p>
-      <p><strong>Destaques:</strong> cobertura de testes, auditoria de dependências, sitemap automático e deploy estático.</p>
-      <p><a href="https://github.com/CarvalhoBrennin/amigos-database">Abrir repositório</a></p>
+      <p><code>React</code> <code>TypeScript</code> <code>Comunidade</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Como eu penso software
+## Como trabalho
 
-<table>
-  <tr>
-    <td width="50%" valign="top"><strong>Resolver antes de complicar</strong><br />Entender o problema, prototipar, iterar com feedback real.</td>
-    <td width="50%" valign="top"><strong>Código legível</strong><br />Nomes claros, estrutura simples e manutenção em mente desde o início.</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><strong>Stack consciente</strong><br />Web, desktop ou API — o que fizer mais sentido para o contexto.</td>
-    <td width="50%" valign="top"><strong>Qualidade contínua</strong><br />Testes, lint, typecheck e documentação como parte do fluxo.</td>
-  </tr>
-</table>
+**Princípios**
+- Resolver antes de complicar — entender o problema, prototipar, iterar com feedback real
+- Código legível — nomes claros, estrutura simples, manutenção em mente desde o início
+- Stack consciente — web, desktop ou API: o que fizer mais sentido para o contexto
+- Qualidade contínua — testes, lint, typecheck e documentação como parte do fluxo
+
+**Diferenciais**
+- Full-stack de verdade — do portal corporativo ao utilitário desktop
+- Produto com testes — unitários, E2E e cobertura onde faz sentido
+- Contexto enterprise — autenticação, integrações, compliance e múltiplos portais
+- Projetos comunitários — ferramentas web pensadas para uso real por pessoas reais
 
 ```txt
 ideia -> protótipo -> implementação -> teste -> entrega -> melhoria
@@ -111,11 +89,7 @@ ideia -> protótipo -> implementação -> teste -> entrega -> melhoria
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 </p>
 
 <table>
@@ -143,38 +117,29 @@ ideia -> protótipo -> implementação -> teste -> entrega -> melhoria
 
 ---
 
-## Diferenciais
+## GitHub stats
 
-- **Full-stack de verdade** — do portal corporativo ao utilitário desktop
-- **Produto com testes** — unitários, E2E e cobertura onde faz sentido
-- **Contexto enterprise** — autenticação, integrações, compliance e múltiplos portais
-- **Projetos comunitários** — ferramentas web pensadas para uso real por pessoas reais
+<!-- Painel único auto-hospedado (.github/workflows/metrics.yml) — sem rate-limit de serviços externos. -->
+<p align="center">
+  <img width="96%" src="./assets/metrics.svg" alt="Métricas: atividade, linguagens e hábitos de código" />
+</p>
 
----
-
-<details>
-  <summary><strong>GitHub stats</strong></summary>
-
-  <br />
-
-  <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarvalhoBrennin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvalhoBrennin&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  </p>
-
-</details>
+<!-- Animação gerada por .github/workflows/snake.yml e publicada na branch `output`. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarvalhoBrennin/CarvalhoBrennin/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarvalhoBrennin/CarvalhoBrennin/output/snake-light.svg" />
+    <img alt="Histórico de contribuições" src="https://raw.githubusercontent.com/CarvalhoBrennin/CarvalhoBrennin/output/snake-dark.svg" />
+  </picture>
+</p>
 
 ---
 
 ## Contato
 
-Aberto a conversas sobre **desenvolvimento de software**, **colaboração em projetos** e **oportunidades na área de tecnologia**.
+Aberto a conversas sobre desenvolvimento de software, colaboração em projetos e oportunidades na área de tecnologia.
 
-- **GitHub:** [github.com/CarvalhoBrennin](https://github.com/CarvalhoBrennin)
-- **Repositórios:** [ver projetos](https://github.com/CarvalhoBrennin?tab=repositories)
-
-```txt
-construir > complicar
-testar > adivinhar
-software bom é o que funciona e se mantém
-```
+<p>
+  <a href="https://github.com/CarvalhoBrennin"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-CarvalhoBrennin-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:desenvolvedor@okta7.com.br"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-desenvolvedor%40okta7.com.br-06B6D4?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+</p>
