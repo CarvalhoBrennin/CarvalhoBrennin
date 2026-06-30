@@ -116,12 +116,7 @@ ideia -> protótipo -> implementação -> teste -> entrega -> melhoria
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarvalhoBrennin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=CarvalhoBrennin&theme=tokyonight&hide_border=true&background=0B1229" alt="GitHub streak" />
-</p>
+## Contribuições
 
 <!-- Animação gerada por .github/workflows/snake.yml e publicada na branch `output`. -->
 <p align="center">
