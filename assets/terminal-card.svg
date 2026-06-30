@@ -1,4 +1,5 @@
 <svg width="940" height="310" viewBox="0 0 940 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Resumo técnico do perfil de Brennin</title>
   <defs>
     <linearGradient id="line" x1="34" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22C55E"/>
@@ -21,8 +22,8 @@
   <text x="36" y="148" fill="#06B6D4" font-family="Consolas, Monaco, monospace" font-size="19">[02] stack</text>
   <text x="155" y="148" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">React, TypeScript, .NET 9, Python, PostgreSQL, Docker</text>
 
-  <text x="36" y="192" fill="#A78BFA" font-family="Consolas, Monaco, monospace" font-size="19">[03] featured</text>
-  <text x="155" y="192" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">AM · amigos-database · Transformados</text>
+  <text x="36" y="192" fill="#A78BFA" font-family="Consolas, Monaco, monospace" font-size="19">[03] now</text>
+  <text x="155" y="192" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">perfil com CI/CD próprio via GitHub Actions</text>
 
   <text x="36" y="236" fill="#FBBF24" font-family="Consolas, Monaco, monospace" font-size="19">[04] focus</text>
   <text x="155" y="236" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">código claro, testes, entrega incremental e produto útil</text>

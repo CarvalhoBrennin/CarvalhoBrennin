@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/CarvalhoBrennin"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-CarvalhoBrennin-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:desenvolvedor@okta7.com.br"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-contato-06B6D4?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 </p>
 
 ---
@@ -21,7 +20,7 @@ Desenvolvedor **full-stack** entre front-end, back-end, APIs, desktop e automaç
 
 - Full-stack em produtos digitais corporativos (React + ASP.NET Core) numa operadora de planos odontológicos
 - Mantendo o [amigos-database](https://github.com/CarvalhoBrennin/amigos-database) — SPA pública com testes E2E e deploy contínuo
-- Este próprio perfil: métricas e automações geradas via GitHub Actions, sem depender de serviços de terceiros frágeis
+- Este próprio perfil: animação de contribuições gerada via GitHub Actions, publicada automaticamente a cada push
 
 ---
 
@@ -119,9 +118,9 @@ ideia -> protótipo -> implementação -> teste -> entrega -> melhoria
 
 ## GitHub stats
 
-<!-- Painel único auto-hospedado (.github/workflows/metrics.yml) — sem rate-limit de serviços externos. -->
 <p align="center">
-  <img width="96%" src="./assets/metrics.svg" alt="Métricas: atividade, linguagens e hábitos de código" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarvalhoBrennin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=CarvalhoBrennin&theme=tokyonight&hide_border=true&background=0B1229" alt="GitHub streak" />
 </p>
 
 <!-- Animação gerada por .github/workflows/snake.yml e publicada na branch `output`. -->
@@ -137,9 +136,9 @@ ideia -> protótipo -> implementação -> teste -> entrega -> melhoria
 
 ## Contato
 
-Aberto a conversas sobre desenvolvimento de software, colaboração em projetos e oportunidades na área de tecnologia.
+Aberto a conversas sobre desenvolvimento de software, colaboração em projetos e oportunidades na área de tecnologia — pelo GitHub.
 
 <p>
   <a href="https://github.com/CarvalhoBrennin"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-CarvalhoBrennin-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:desenvolvedor@okta7.com.br"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-desenvolvedor%40okta7.com.br-06B6D4?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="https://github.com/CarvalhoBrennin?tab=repositories"><img alt="Repositórios" src="https://img.shields.io/badge/Reposit%C3%B3rios-ver%20projetos-22C55E?style=for-the-badge&logo=git&logoColor=white" /></a>
 </p>
