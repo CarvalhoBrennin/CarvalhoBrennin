@@ -12,20 +12,20 @@
   <circle cx="31" cy="23" r="6" fill="#EF4444"/>
   <circle cx="55" cy="23" r="6" fill="#F59E0B"/>
   <circle cx="79" cy="23" r="6" fill="#22C55E"/>
-  <text x="108" y="29" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="16">brennin-local-lab.log</text>
+  <text x="108" y="29" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="16">dev-profile.log</text>
   <rect x="34" y="66" width="872" height="3" rx="1.5" fill="url(#line)" opacity="0.9"/>
 
-  <text x="36" y="104" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="19">[01] input</text>
-  <text x="155" y="104" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">print, planilha, palco, chat do grupo, tarefa repetitiva</text>
+  <text x="36" y="104" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="19">[01] focus</text>
+  <text x="155" y="104" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">desenvolvimento full-stack e software bem feito</text>
 
-  <text x="36" y="148" fill="#06B6D4" font-family="Consolas, Monaco, monospace" font-size="19">[02] engine</text>
-  <text x="155" y="148" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">Python, TypeScript, C#, Java, Qt, OCR, scripts locais</text>
+  <text x="36" y="148" fill="#06B6D4" font-family="Consolas, Monaco, monospace" font-size="19">[02] stack</text>
+  <text x="155" y="148" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">Python, TypeScript, C#, Java, React, Git, Docker</text>
 
-  <text x="36" y="192" fill="#A78BFA" font-family="Consolas, Monaco, monospace" font-size="19">[03] output</text>
-  <text x="155" y="192" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">ferramenta simples, offline quando dá, útil antes de bonita</text>
+  <text x="36" y="192" fill="#A78BFA" font-family="Consolas, Monaco, monospace" font-size="19">[03] build</text>
+  <text x="155" y="192" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">web apps, APIs, desktop tools e automação</text>
 
-  <text x="36" y="236" fill="#FBBF24" font-family="Consolas, Monaco, monospace" font-size="19">[04] rule</text>
-  <text x="155" y="236" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">se alguém usa de verdade, vale polir; se não, vira laboratório</text>
+  <text x="36" y="236" fill="#FBBF24" font-family="Consolas, Monaco, monospace" font-size="19">[04] goal</text>
+  <text x="155" y="236" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">código claro, soluções úteis e aprendizado constante</text>
 
-  <text x="36" y="280" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="17">local-first nao e anti-cloud. e pro-controle.</text>
+  <text x="36" y="280" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="17">tecnologia aplicada a problemas reais.</text>
 </svg>

@@ -43,24 +43,24 @@
   <circle cx="88" cy="67" r="7" fill="#EF4444"/>
   <circle cx="114" cy="67" r="7" fill="#F59E0B"/>
   <circle cx="140" cy="67" r="7" fill="#22C55E"/>
-  <text x="172" y="74" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="18">~/CarvalhoBrennin/profile-os</text>
+  <text x="172" y="74" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="18">~/dev/full-stack</text>
 
-  <text x="88" y="135" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="20">$ boot brennin.exe --builder local-first --ship useful</text>
+  <text x="88" y="135" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="20">$ run dev --stack full --mode build</text>
   <text x="88" y="195" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="850">Brennin</text>
-  <text x="88" y="238" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25">full-stack builder · desktop tools · automação · church tech · game labs</text>
-  <text x="88" y="277" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="18">problema real -&gt; protótipo -&gt; ferramenta usável -&gt; teste no mundo real</text>
+  <text x="88" y="238" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25">full-stack developer · web · desktop · APIs · automação</text>
+  <text x="88" y="277" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="18">ideia -&gt; código -&gt; teste -&gt; melhoria contínua</text>
   <rect x="88" y="302" width="560" height="10" rx="5" fill="url(#accent)" filter="url(#softGlow)"/>
 
   <g>
     <rect x="790" y="118" width="300" height="178" rx="20" fill="#0B1024" stroke="#22C55E" stroke-opacity="0.42"/>
-    <text x="820" y="152" fill="#06B6D4" font-family="Consolas, Monaco, monospace" font-size="18">BUILD RADAR</text>
-    <text x="820" y="187" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">horafolio</text>
-    <text x="950" y="187" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">OCR -&gt; Excel</text>
-    <text x="820" y="218" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">amigos-db</text>
-    <text x="950" y="218" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">public</text>
-    <text x="820" y="249" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">church tools</text>
-    <text x="950" y="249" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">offline</text>
-    <text x="820" y="280" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">game labs</text>
-    <text x="950" y="280" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">mods + co-op</text>
+    <text x="820" y="152" fill="#06B6D4" font-family="Consolas, Monaco, monospace" font-size="18">TECH STACK</text>
+    <text x="820" y="187" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">frontend</text>
+    <text x="950" y="187" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">React · TS</text>
+    <text x="820" y="218" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">backend</text>
+    <text x="950" y="218" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">Python · API</text>
+    <text x="820" y="249" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">desktop</text>
+    <text x="950" y="249" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">C# · Qt</text>
+    <text x="820" y="280" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">tools</text>
+    <text x="950" y="280" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">Git · Docker</text>
   </g>
 </svg>
