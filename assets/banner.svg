@@ -47,20 +47,20 @@
 
   <text x="88" y="135" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="20">$ run dev --stack full --mode build</text>
   <text x="88" y="195" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="850">Brennin</text>
-  <text x="88" y="238" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25">full-stack developer · web · desktop · APIs · automação</text>
+  <text x="88" y="238" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25">full-stack · React · .NET · Python · web &amp; desktop</text>
   <text x="88" y="277" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="18">ideia -&gt; código -&gt; teste -&gt; melhoria contínua</text>
   <rect x="88" y="302" width="560" height="10" rx="5" fill="url(#accent)" filter="url(#softGlow)"/>
 
   <g>
     <rect x="790" y="118" width="300" height="178" rx="20" fill="#0B1024" stroke="#22C55E" stroke-opacity="0.42"/>
-    <text x="820" y="152" fill="#06B6D4" font-family="Consolas, Monaco, monospace" font-size="18">TECH STACK</text>
-    <text x="820" y="187" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">frontend</text>
-    <text x="950" y="187" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">React · TS</text>
-    <text x="820" y="218" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">backend</text>
-    <text x="950" y="218" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">Python · API</text>
-    <text x="820" y="249" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">desktop</text>
-    <text x="950" y="249" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">C# · Qt</text>
-    <text x="820" y="280" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">tools</text>
-    <text x="950" y="280" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">Git · Docker</text>
+    <text x="820" y="152" fill="#06B6D4" font-family="Consolas, Monaco, monospace" font-size="18">FEATURED</text>
+    <text x="820" y="187" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">AM</text>
+    <text x="950" y="187" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">web · community</text>
+    <text x="820" y="218" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">amigos-db</text>
+    <text x="950" y="218" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">TypeScript SPA</text>
+    <text x="820" y="249" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">Transformados</text>
+    <text x="950" y="249" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">ministry web</text>
+    <text x="820" y="280" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="16">stack</text>
+    <text x="950" y="280" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="16">React · .NET</text>
   </g>
 </svg>

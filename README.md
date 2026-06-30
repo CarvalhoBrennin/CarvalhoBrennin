@@ -7,22 +7,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=880&lines=Desenvolvimento+full-stack;Web%2C+desktop+e+automacao;Codigo+claro%2C+software+util;Aprendendo+e+construindo+sempre" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=880&lines=Desenvolvimento+full-stack;Web%2C+APIs+e+desktop;Software+util+e+bem+testado;React+%7C+.NET+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
 </p>
 
 ---
 
-## `whoami`
+## Sobre
 
-Sou o **Brennin**, desenvolvedor **full-stack** interessado em **tecnologia aplicada**: transformar ideias em software que funciona no dia a dia.
-
-Gosto de trabalhar entre **front-end**, **back-end**, **desktop** e **automação** — escolhendo a ferramenta certa para cada problema, em vez de forçar sempre a mesma stack ou a mesma arquitetura.
+Sou o **Brennin**, desenvolvedor **full-stack** que atua entre **front-end**, **back-end**, **APIs**, **desktop** e **automação** — escolhendo a stack certa para cada problema, com foco em código legível, entrega incremental e software que funciona no mundo real.
 
 ```txt
 perfil: full-stack developer
-foco: software prático, bem estruturado e fácil de manter
-stack: Python · TypeScript · C# · Java · JavaScript
-interesse: web · desktop · APIs · automação · boas práticas
+foco: produto útil, arquitetura clara, testes e manutenção
+stack: TypeScript · React · Python · C# · .NET · JavaScript
+ambiente: web · desktop · APIs · Docker · Azure DevOps
 ```
 
 <p align="center">
@@ -31,62 +29,77 @@ interesse: web · desktop · APIs · automação · boas práticas
 
 ---
 
-## Como eu penso software
+## Experiência profissional
 
-| Princípio | Na prática |
-|---|---|
-| **Resolver antes de complicar** | Entender o problema, prototipar, iterar |
-| **Código legível** | Nomes claros, estrutura simples, manutenção em mente |
-| **Escolha consciente de stack** | Web, desktop ou script — o que fizer mais sentido |
-| **Offline quando possível** | Menos dependência externa, mais controle |
-| **Aprendizado contínuo** | Novas linguagens, frameworks e ferramentas fazem parte do processo |
+Desenvolvedor full-stack em **operadora de planos odontológicos**, atuando em produtos digitais corporativos com requisitos de negócio, segurança e compliance.
+
+- **E-commerce regulado** — catálogo, checkout, portais de titular/parceiro e área administrativa (React, NestJS/Express, PostgreSQL, Docker)
+- **Portais web corporativos** — beneficiário, dentista, auditoria e empresa (React, TypeScript, TanStack Query)
+- **APIs em ASP.NET Core (.NET 9)** — autenticação, domínio, integrações e testes automatizados
+- **Fluxo de entrega** — Git, Azure DevOps, documentação técnica e trabalho em ambiente enterprise
+
+> Código proprietário em repositórios internos; o perfil destaca capacidade técnica sem expor implementações privadas.
 
 ---
 
-## Áreas de atuação
+## Projetos em destaque
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Web & front-end</h3>
-      <p>Interfaces modernas, SPAs e experiências responsivas.</p>
-      <p><code>TypeScript</code> <code>React</code> <code>Vite</code> <code>JavaScript</code></p>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/CarvalhoBrennin/AM">AM</a></h3>
+      <p><strong>Web · comunidade</strong></p>
+      <p>Plataforma web da linha AMIGOS — experiências digitais, conteúdo e ferramentas para uso comunitário.</p>
+      <p><code>TypeScript</code> <code>React</code> <code>Vite</code> <code>SPA</code></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Back-end & APIs</h3>
-      <p>Lógica de negócio, integrações e serviços bem definidos.</p>
-      <p><code>Python</code> <code>APIs</code> <code>SQL</code> <code>Docker</code></p>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/CarvalhoBrennin/amigos-database">amigos-database</a></h3>
+      <p><strong>Web · catálogo · público</strong></p>
+      <p>SPA de jogos cooperativos e browser games com filtros, i18n, integração de preços e testes E2E.</p>
+      <p><code>React 18</code> <code>TypeScript</code> <code>Tailwind</code> <code>Vitest</code> <code>Playwright</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/CarvalhoBrennin/Transformados">Transformados</a></h3>
+      <p><strong>Web · comunidade</strong></p>
+      <p>Projetos digitais para ministério e organização: presença online, ferramentas internas e apoio operacional.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Web</code> <code>Comunidade</code></p>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Desktop & automação</h3>
-      <p>Ferramentas locais, produtividade e rotinas repetitivas automatizadas.</p>
-      <p><code>C#</code> <code>Python</code> <code>Qt/PySide6</code> <code>Windows</code></p>
+    <td width="45%">
+      <a href="https://github.com/CarvalhoBrennin/amigos-database">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarvalhoBrennin&repo=amigos-database&theme=tokyonight&hide_border=true" alt="amigos-database" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>Exploração & experimentação</h3>
-      <p>Projetos pessoais, game dev, modding e laboratório de novas ideias.</p>
-      <p><code>Java</code> <code>Git</code> <code>Open source</code> <code>Side projects</code></p>
+    <td width="55%" valign="top">
+      <h3>amigos-database</h3>
+      <p>Catálogo SPA de jogos cooperativos com navegação fluida, filtros, modalidades, i18n multi-idioma e integração com conversores de preço.</p>
+      <p><strong>Destaques:</strong> cobertura de testes, auditoria de dependências, sitemap automático e deploy estático.</p>
+      <p><a href="https://github.com/CarvalhoBrennin/amigos-database">Abrir repositório</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Fluxo de trabalho
+## Como eu penso software
 
-```mermaid
-flowchart LR
-    A[Problema ou ideia] --> B[Entendimento]
-    B --> C[Protótipo]
-    C --> D[Implementação]
-    D --> E[Testes e ajustes]
-    E --> F[Entrega ou iteração]
-```
+<table>
+  <tr>
+    <td width="50%" valign="top"><strong>Resolver antes de complicar</strong><br />Entender o problema, prototipar, iterar com feedback real.</td>
+    <td width="50%" valign="top"><strong>Código legível</strong><br />Nomes claros, estrutura simples e manutenção em mente desde o início.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><strong>Stack consciente</strong><br />Web, desktop ou API — o que fizer mais sentido para o contexto.</td>
+    <td width="50%" valign="top"><strong>Qualidade contínua</strong><br />Testes, lint, typecheck e documentação como parte do fluxo.</td>
+  </tr>
+</table>
 
 ```txt
-ideia -> protótipo -> código -> teste -> melhoria contínua
+ideia -> protótipo -> implementação -> teste -> entrega -> melhoria
 ```
 
 ---
@@ -94,36 +107,48 @@ ideia -> protótipo -> código -> teste -> melhoria contínua
 ## Stack & ferramentas
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 </p>
 
-| Camada | Tecnologias |
-|---|---|
-| **Linguagens** | Python · TypeScript · JavaScript · C# · Java |
-| **Web** | React · Vite · HTML · CSS |
-| **Desktop & scripts** | PySide6/Qt · C# · automação local |
-| **Infra & dados** | Git · Docker · SQL Server |
-| **Workflow** | GitHub · Azure DevOps · documentação clara |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Front-end</strong><br />
+      React · TypeScript · Vite · Tailwind CSS · TanStack Query · Zustand
+    </td>
+    <td width="50%" valign="top">
+      <strong>Back-end</strong><br />
+      ASP.NET Core · NestJS/Express · Python · REST APIs · JWT
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Desktop & scripts</strong><br />
+      C# · PySide6/Qt · Tauri · automação local
+    </td>
+    <td width="50%" valign="top">
+      <strong>Qualidade & entrega</strong><br />
+      Vitest · Playwright · xUnit · Git · Azure DevOps · Docker
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Explorando agora
+## Diferenciais
 
-```txt
-[web]           React, TypeScript e arquitetura de front-end
-[desktop]       apps nativos e ferramentas locais
-[backend]       APIs, integrações e persistência de dados
-[devops]        Git, Docker e fluxo de entrega
-[always]        código limpo, projetos reais e aprendizado constante
-```
+- **Full-stack de verdade** — do portal corporativo ao utilitário desktop
+- **Produto com testes** — unitários, E2E e cobertura onde faz sentido
+- **Contexto enterprise** — autenticação, integrações, compliance e múltiplos portais
+- **Projetos comunitários** — ferramentas web pensadas para uso real por pessoas reais
 
 ---
 
@@ -150,6 +175,6 @@ Aberto a conversas sobre **desenvolvimento de software**, **colaboração em pro
 
 ```txt
 construir > complicar
-aprender > parar
+testar > adivinhar
 software bom é o que funciona e se mantém
 ```
