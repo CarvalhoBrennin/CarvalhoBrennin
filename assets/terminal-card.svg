@@ -1,0 +1,31 @@
+<svg width="940" height="310" viewBox="0 0 940 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="34" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.45" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+  <rect width="940" height="310" rx="24" fill="#080B16"/>
+  <rect x="1" y="1" width="938" height="308" rx="23" stroke="#FFFFFF" stroke-opacity="0.13"/>
+  <rect width="940" height="45" rx="24" fill="#111827"/>
+  <circle cx="31" cy="23" r="6" fill="#EF4444"/>
+  <circle cx="55" cy="23" r="6" fill="#F59E0B"/>
+  <circle cx="79" cy="23" r="6" fill="#22C55E"/>
+  <text x="108" y="29" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="16">brennin-local-lab.log</text>
+  <rect x="34" y="66" width="872" height="3" rx="1.5" fill="url(#line)" opacity="0.9"/>
+
+  <text x="36" y="104" fill="#22C55E" font-family="Consolas, Monaco, monospace" font-size="19">[01] input</text>
+  <text x="155" y="104" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">print, planilha, palco, chat do grupo, tarefa repetitiva</text>
+
+  <text x="36" y="148" fill="#06B6D4" font-family="Consolas, Monaco, monospace" font-size="19">[02] engine</text>
+  <text x="155" y="148" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">Python, TypeScript, C#, Java, Qt, OCR, scripts locais</text>
+
+  <text x="36" y="192" fill="#A78BFA" font-family="Consolas, Monaco, monospace" font-size="19">[03] output</text>
+  <text x="155" y="192" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">ferramenta simples, offline quando dá, útil antes de bonita</text>
+
+  <text x="36" y="236" fill="#FBBF24" font-family="Consolas, Monaco, monospace" font-size="19">[04] rule</text>
+  <text x="155" y="236" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="19">se alguém usa de verdade, vale polir; se não, vira laboratório</text>
+
+  <text x="36" y="280" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="17">local-first is not anti-cloud. it is pro-control.</text>
+</svg>
