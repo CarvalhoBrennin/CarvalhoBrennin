@@ -22,7 +22,7 @@ Desenvolvedor **Full Stack** com foco em interfaces, APIs, automações e dados.
 
 ## Experiência profissional
 
-### OKTA7 · Desenvolvedor Front-End Júnior — atuação Full Stack
+### OKTA7 · Desenvolvedor Full Stack
 **set. 2025 – atual** · Alphaville, SP
 
 - Desenvolvimento de interfaces responsivas com **React** e **TypeScript** em plataforma corporativa de grande escala.
