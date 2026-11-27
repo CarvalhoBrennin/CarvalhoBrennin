@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="236" viewBox="0 0 1200 236" role="img" aria-labelledby="title desc">
+  <title id="title">AMIGOS Database</title>
+  <desc id="desc">Dois controles de videogame, um verde e outro lilás, ilustram a capa do catálogo de jogos cooperativos.</desc>
+  <defs>
+    <pattern id="halftone" width="7" height="7" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.2" fill="#6c6383"/>
+    </pattern>
+    <g id="controller" stroke="#2f3531" stroke-linejoin="round">
+      <path d="M22 0h138l17 15 9 57-11 12h-22l-22-18H54L33 84H11L0 72l8-57z" fill="currentColor" stroke-width="4"/>
+      <path d="M3 65l9 9h19l21-18h81l22 18h18l11-10" fill="none" stroke-width="2"/>
+      <path d="M36 15h11v11h11v11H47v11H36V37H25V26h11z" fill="#34443b" stroke-width="2"/>
+      <g fill="#34443b">
+        <circle cx="133" cy="39" r="7"/><circle cx="151" cy="22" r="7"/>
+        <path d="M79 43h8v3h-8zm15 0h8v3h-8z"/>
+      </g>
+    </g>
+    <path id="spark" d="M-13 0h8v-5h5v-8h2v8h5v5h8v2H7v5H2v8H0V7h-5V2h-8z"/>
+    <clipPath id="edge"><rect width="1200" height="236" rx="15"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#edge)">
+    <rect width="1200" height="236" fill="#ece8f2"/>
+    <circle cx="913" cy="115" r="193" fill="#ded5eb"/>
+    <circle cx="913" cy="115" r="184" fill="none" stroke="#b8acca"/>
+    <circle cx="913" cy="115" r="161" fill="none" stroke="#b8acca" stroke-dasharray="2 7"/>
+    <path d="M39 30v176" stroke="#8d849a" stroke-width="2"/>
+    <path d="M39 30v34" stroke="#314537" stroke-width="5"/>
+    <text x="66" y="115" font-family="'Arial Black', Arial, sans-serif" font-size="96" font-weight="900" letter-spacing="-5" fill="#22382d">AMIGOS</text>
+    <text x="70" y="191" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-style="italic" letter-spacing="-3" fill="#51475e">Database</text>
+
+    <!-- Os cabos saem pelo topo como num par de controles de console. -->
+    <g fill="none" stroke="#43443f" stroke-width="4">
+      <path d="M840 72c-20-52-124-15-132-47-5-20 17-28 31-38"/>
+      <path d="M996 109c29-39 100 2 118-41 13-32-33-56-14-84"/>
+    </g>
+    <g transform="translate(728 85) rotate(-14)">
+      <path d="M22 0h138l17 15 9 57-11 12h-22l-22-18H54L33 84H11L0 72l8-57z" transform="translate(5 10)" fill="url(#halftone)"/>
+      <use href="#controller" color="#d4ed86"/>
+    </g>
+    <g transform="translate(902 81) rotate(15)">
+      <path d="M22 0h138l17 15 9 57-11 12h-22l-22-18H54L33 84H11L0 72l8-57z" transform="translate(5 10)" fill="url(#halftone)"/>
+      <use href="#controller" color="#b5a6d3"/>
+    </g>
+    <g fill="#645a74">
+      <use href="#spark" transform="translate(680 144)"/>
+      <use href="#spark" transform="translate(953 38) scale(.7)"/>
+      <use href="#spark" transform="translate(1121 177) scale(.85)"/>
+    </g>
+  </g>
+</svg>
